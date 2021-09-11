@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/thumb_image_iv"
+    android:layout_width="150dp"
+    android:layout_margin="4dp"
+    android:src="@color/design_default_color_secondary"
+    android:background="@drawable/rounded_corners"
+    android:scaleType="centerCrop"
+    android:layout_height="wrap_content">
+
+</ImageView>
